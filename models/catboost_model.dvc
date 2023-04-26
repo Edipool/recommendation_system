@@ -1,0 +1,4 @@
+outs:
+- md5: fd21e53791d569b01f66cac0bcfede6e
+  size: 560236
+  path: catboost_model

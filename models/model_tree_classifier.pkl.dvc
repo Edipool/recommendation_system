@@ -1,0 +1,4 @@
+outs:
+- md5: 8aa3d4a20ff7d21cd6dd4477719fbd3b
+  size: 42501595
+  path: model_tree_classifier.pkl
