@@ -14,7 +14,6 @@ The src module contains the project's source code. The app.py file launches the 
 # Running the code
 
 The command to run docker: `docker run --rm -p 8000:8000 recommendation_system`
-The command is running docker: `python -m uvicorn app:app --reload`
 The command is Postman: `http://localhost:8000/post/recommendations?id=767&time=2022-12-12 21:10:16&limit=5`
 In the postman, you can change the user `id`, `time` from `2021-12-29 23:39:35` to `2021-10-01 06:06:44` and the `limit`
 
